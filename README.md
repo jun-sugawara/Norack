@@ -24,6 +24,11 @@ $ git clone https://github.com/jun-sugawara/norack.git
 $ docker-compose up -d
 ```
 
+* yarnがインストールされていなくてフロントサイトが出ない時は下記を実行
+```
+$ yarn 
+``` 
+
 * APIサーバーポート：localhost:3000
 * frontサーバーポート：localhost:8080
 
